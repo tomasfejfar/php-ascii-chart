@@ -1,0 +1,17 @@
+{
+    "name": "tomasfejfar/php-ascii-chart",
+    "description": "Plot charts using ascii characters",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomáš Fejfar",
+            "email": "tomas.fejfar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AsciiChart\\": "src/"
+        }
+    }
+}
